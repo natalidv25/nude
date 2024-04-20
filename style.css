@@ -100,7 +100,7 @@ span {
     font-size: 15px;
     line-height: 107%;
     letter-spacing: 0.02em;
-    margin-right: 195px;
+    margin-right: 200px;
     color: #3e3e42;
 }
 
@@ -171,11 +171,19 @@ span {
     height: 221px;
 }
 .center_two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
     max-width: 350px;
 }
 .center_fon{
+    margin-top: -30px;
     width: 347px;
     height: 364px;
+}
+.into {
+    margin-left: -80%;
 }
 .center_into {
     z-index: 50;
