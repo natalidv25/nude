@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'Times New Roman Regular';
+	src: url('times_new_roman_regular-webfont.woff2') format('woff2'),
+	url('times_new_roman_regular-webfont.woff') format('woff'),
+	url('times_new_roman_regular-webfont.svg#times_new_romanregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Segoe UI Regular';
+	src: url('SegoeUI.eot');
+	src: local('Segoe UI'), local('SegoeUI'),
+	url('SegoeUI.eot?#iefix') format('embedded-opentype'),
+	url('SegoeUI.woff') format('woff'),
+	url('SegoeUI.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
